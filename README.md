@@ -8,7 +8,7 @@
 
 <!-- Intro (Variant A: SWE + AI systems) -->
 <p>
-  I'm <b>Taha Sabir</b> — a <b>Software Engineer</b> focused on <b>AI-powered product engineering</b>:
+  I'm <b>Taha Sabir</b>, a <b>Software Engineer</b> focused on <b>AI-powered product engineering</b>:
   building <b>end-to-end systems</b> (APIs, data pipelines, and UX) that ship reliably and scale.
 </p>
 
@@ -22,11 +22,6 @@
 
 <p>
   <b>Resume:</b> <a href="RESUME_LINK_HERE" target="_blank">View PDF</a>
-</p>
-
-<p>
-  From <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b>Morocco</b> • Studying in 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Gettysburg, PA</b>
 </p>
 
 <h3>Things I code with</h3>
