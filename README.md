@@ -20,9 +20,12 @@
 </p>
 -->
 
-<p>
-  <b>Resume:</b> <a href="RESUME_LINK_HERE" target="_blank">View PDF</a>
-</p>
+<a href="https://raw.githubusercontent.com/TahaSabir0/TahaSabir0/blob/master/Taha_Sabir_Resume.pdf" download>
+  📄 Resume (PDF)
+</a>
+
+
+
 
 <h3>Things I code with</h3>
 <p>
