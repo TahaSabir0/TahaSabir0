@@ -20,9 +20,10 @@
 </p>
 -->
 
-<a href="https://raw.githubusercontent.com/TahaSabir0/TahaSabir0/blob/master/Taha_Sabir_Resume.pdf" download>
+<a href="https://raw.githubusercontent.com/TahaSabir0/TahaSabir0/master/Taha_Sabir_Resume.pdf" download>
   📄 Resume (PDF)
 </a>
+
 
 
 
