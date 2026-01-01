@@ -20,10 +20,9 @@
 </p>
 -->
 
-<a href="https://raw.githubusercontent.com/TahaSabir0/TahaSabir0/master/Taha_Sabir_Resume.pdf" download>
+<a href="https://raw.githubusercontent.com/TahaSabir0/TahaSabir0/blob/master/Taha_Sabir_Resume.pdf" download>
   📄 Resume (PDF)
 </a>
-
 
 
 
@@ -65,22 +64,22 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/SwiftApply"><b>SwiftApply</b></a></td>
+      <td><a href="https://github.com/TahaSabir0/swift-apply"><b>SwiftApply</b></a></td>
       <td>Agentic job application platform with application analysis + feedback.</td>
       <td>React • Spring Boot • SQL • JWT • Gemini</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/lab-ai-assistant"><b>Lab AI Assistant</b></a></td>
+      <td><a href="https://github.com/TahaSabir0/ICL-voice-assistant"><b>Lab AI Assistant</b></a></td>
       <td>Locally hosted assistant with retrieval over a lab knowledge base.</td>
       <td>Next.js • Spring Boot • RAG • Vector DB</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/ai-line-tracking-robot"><b>AI Line Tracking Robot</b></a></td>
+      <td><a href="https://cs.gettysburg.edu/~tneller/archive/cs371/picarx/25sp/1/"><b>AI Line Tracking Robot</b></a></td>
       <td>Computer-vision navigation with calibrated motor control.</td>
       <td>Python • OpenCV • Raspberry Pi</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/auto-tuning-guitar-robot"><b>Auto-Tuning Guitar Robot</b></a></td>
+      <td><a href="https://github.com/TahaSabir0/Polyphonic-Guitar-Pitch-Detection-and-PID-control"><b>Auto-Tuning Guitar Robot</b></a></td>
       <td>Embedded control system with FFT-based pitch detection + motor control.</td>
       <td>C++ • FFT • PID • Arduino</td>
     </tr>
