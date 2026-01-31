@@ -69,7 +69,7 @@
       <td>React • Spring Boot • SQL • JWT • Gemini</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TahaSabir0/ICL-voice-assistant"><b>Lab AI Assistant</b></a></td>
+      <td><a href="https://github.com/TahaSabir0/ICL_Voice_Assistant"><b>Lab AI Assistant</b></a></td>
       <td>Locally hosted assistant with retrieval over a lab knowledge base.</td>
       <td>Next.js • Spring Boot • RAG • Vector DB</td>
     </tr>
